@@ -66,6 +66,6 @@ This project is a bank management system where users can create accounts, perfor
 
 ## ✍️ Author
 Hazem Ahmad Hazem  
-- GitHub: https://github.com/HazemAhmadHaz
-- LinkedIn: https://www.linkedin.com/in/hazem-ahmad-haz
-- Email: HazemAhmad01234@gmail.com
+- GitHub: https://github.com/EaloTaher
+- LinkedIn: https://www.linkedin.com/in/ealam-taher
+- Email: ealamtaher4@gmail.com
