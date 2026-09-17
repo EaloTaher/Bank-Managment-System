@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marhaba\\source\\repos\\8\\Bank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F485C81A-1B1E-4E4E-9FC2-08E8C14D594A}|Bank.vcxproj|C:\\Users\\Marhaba\\source\\repos\\8\\Bank\\clsMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F485C81A-1B1E-4E4E-9FC2-08E8C14D594A}|Bank.vcxproj|solutionrelative:clsMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F485C81A-1B1E-4E4E-9FC2-08E8C14D594A}|Bank.vcxproj|C:\\Users\\Marhaba\\source\\repos\\8\\Bank\\InterfaceCommunication.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F485C81A-1B1E-4E4E-9FC2-08E8C14D594A}|Bank.vcxproj|solutionrelative:InterfaceCommunication.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F485C81A-1B1E-4E4E-9FC2-08E8C14D594A}|Bank.vcxproj|C:\\Users\\Marhaba\\source\\repos\\8\\Bank\\clsCurrencyExchangeMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F485C81A-1B1E-4E4E-9FC2-08E8C14D594A}|Bank.vcxproj|solutionrelative:clsCurrencyExchangeMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F485C81A-1B1E-4E4E-9FC2-08E8C14D594A}|Bank.vcxproj|C:\\Users\\Marhaba\\source\\repos\\8\\Bank\\clsCurrencyCalculatorScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F485C81A-1B1E-4E4E-9FC2-08E8C14D594A}|Bank.vcxproj|solutionrelative:clsCurrencyCalculatorScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F485C81A-1B1E-4E4E-9FC2-08E8C14D594A}|Bank.vcxproj|C:\\Users\\Marhaba\\source\\repos\\8\\Bank\\clsCurrency.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F485C81A-1B1E-4E4E-9FC2-08E8C14D594A}|Bank.vcxproj|solutionrelative:clsCurrency.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F485C81A-1B1E-4E4E-9FC2-08E8C14D594A}|Bank.vcxproj|C:\\Users\\Marhaba\\source\\repos\\8\\Bank\\clsUser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F485C81A-1B1E-4E4E-9FC2-08E8C14D594A}|Bank.vcxproj|solutionrelative:clsUser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F485C81A-1B1E-4E4E-9FC2-08E8C14D594A}|Bank.vcxproj|C:\\Users\\Marhaba\\source\\repos\\8\\Bank\\Users.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F485C81A-1B1E-4E4E-9FC2-08E8C14D594A}|Bank.vcxproj|solutionrelative:Users.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F485C81A-1B1E-4E4E-9FC2-08E8C14D594A}|Bank.vcxproj|C:\\Users\\Marhaba\\source\\repos\\8\\Bank\\clsUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F485C81A-1B1E-4E4E-9FC2-08E8C14D594A}|Bank.vcxproj|solutionrelative:clsUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F485C81A-1B1E-4E4E-9FC2-08E8C14D594A}|Bank.vcxproj|C:\\Users\\Marhaba\\source\\repos\\8\\Bank\\Bank.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F485C81A-1B1E-4E4E-9FC2-08E8C14D594A}|Bank.vcxproj|solutionrelative:Bank.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsMainScreen.h",
+              "DocumentMoniker": "C:\\Users\\Marhaba\\source\\repos\\8\\Bank\\clsMainScreen.h",
+              "RelativeDocumentMoniker": "clsMainScreen.h",
+              "ToolTip": "C:\\Users\\Marhaba\\source\\repos\\8\\Bank\\clsMainScreen.h",
+              "RelativeToolTip": "clsMainScreen.h",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-06T06:46:26.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InterfaceCommunication.h",
+              "DocumentMoniker": "C:\\Users\\Marhaba\\source\\repos\\8\\Bank\\InterfaceCommunication.h",
+              "RelativeDocumentMoniker": "InterfaceCommunication.h",
+              "ToolTip": "C:\\Users\\Marhaba\\source\\repos\\8\\Bank\\InterfaceCommunication.h",
+              "RelativeToolTip": "InterfaceCommunication.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-06T06:46:17.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsCurrencyExchangeMainScreen.h",
+              "DocumentMoniker": "C:\\Users\\Marhaba\\source\\repos\\8\\Bank\\clsCurrencyExchangeMainScreen.h",
+              "RelativeDocumentMoniker": "clsCurrencyExchangeMainScreen.h",
+              "ToolTip": "C:\\Users\\Marhaba\\source\\repos\\8\\Bank\\clsCurrencyExchangeMainScreen.h",
+              "RelativeToolTip": "clsCurrencyExchangeMainScreen.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-06T06:46:06.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsCurrencyCalculatorScreen.h",
+              "DocumentMoniker": "C:\\Users\\Marhaba\\source\\repos\\8\\Bank\\clsCurrencyCalculatorScreen.h",
+              "RelativeDocumentMoniker": "clsCurrencyCalculatorScreen.h",
+              "ToolTip": "C:\\Users\\Marhaba\\source\\repos\\8\\Bank\\clsCurrencyCalculatorScreen.h",
+              "RelativeToolTip": "clsCurrencyCalculatorScreen.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-06T06:46:05.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsCurrency.h",
+              "DocumentMoniker": "C:\\Users\\Marhaba\\source\\repos\\8\\Bank\\clsCurrency.h",
+              "RelativeDocumentMoniker": "clsCurrency.h",
+              "ToolTip": "C:\\Users\\Marhaba\\source\\repos\\8\\Bank\\clsCurrency.h",
+              "RelativeToolTip": "clsCurrency.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-06T06:46:01.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Users.txt",
+              "DocumentMoniker": "C:\\Users\\Marhaba\\source\\repos\\8\\Bank\\Users.txt",
+              "RelativeDocumentMoniker": "Users.txt",
+              "ToolTip": "C:\\Users\\Marhaba\\source\\repos\\8\\Bank\\Users.txt",
+              "RelativeToolTip": "Users.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-07-06T06:07:58.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsUtil.h",
+              "DocumentMoniker": "C:\\Users\\Marhaba\\source\\repos\\8\\Bank\\clsUtil.h",
+              "RelativeDocumentMoniker": "clsUtil.h",
+              "ToolTip": "C:\\Users\\Marhaba\\source\\repos\\8\\Bank\\clsUtil.h",
+              "RelativeToolTip": "clsUtil.h",
+              "ViewState": "AQIAAAUBAAAAAAAAAAAIwDABAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-06T06:02:54.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsUser.h",
+              "DocumentMoniker": "C:\\Users\\Marhaba\\source\\repos\\8\\Bank\\clsUser.h",
+              "RelativeDocumentMoniker": "clsUser.h",
+              "ToolTip": "C:\\Users\\Marhaba\\source\\repos\\8\\Bank\\clsUser.h",
+              "RelativeToolTip": "clsUser.h",
+              "ViewState": "AQIAAHYBAAAAAAAAAAAkwJMBAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-06T05:41:10.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bank.cpp",
+              "DocumentMoniker": "C:\\Users\\Marhaba\\source\\repos\\8\\Bank\\Bank.cpp",
+              "RelativeDocumentMoniker": "Bank.cpp",
+              "ToolTip": "C:\\Users\\Marhaba\\source\\repos\\8\\Bank\\Bank.cpp",
+              "RelativeToolTip": "Bank.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-06T05:44:07.128Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

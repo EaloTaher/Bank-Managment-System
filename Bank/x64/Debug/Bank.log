@@ -1,0 +1,22 @@
+﻿  Bank.cpp
+C:\Users\Marhaba\source\repos\8\Bank\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Marhaba\source\repos\8\Bank\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Marhaba\source\repos\8\Bank\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Marhaba\source\repos\8\Bank\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Marhaba\source\repos\8\Bank\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Marhaba\source\repos\8\Bank\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Marhaba\source\repos\8\Bank\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+C:\Users\Marhaba\source\repos\8\Bank\clsUser.h(198,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\Marhaba\source\repos\8\Bank\clsBankClient.h(206,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\Marhaba\source\repos\8\Bank\clsBankClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Marhaba\source\repos\8\Bank\clsBankClient.h(162,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Marhaba\source\repos\8\Bank\clsBankClient.h(163,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Marhaba\source\repos\8\Bank\clsBankClient.h(164,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Marhaba\source\repos\8\Bank\clsBankClient.h(421,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Marhaba\source\repos\8\Bank\clsBankClient.h(434,30): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Marhaba\source\repos\8\Bank\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Marhaba\source\repos\8\Bank\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Marhaba\source\repos\8\Bank\clsBankClient.h(376,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\Marhaba\source\repos\8\Bank\clsUser.h(360,1): warning C4715: 'clsUser::Save': not all control paths return a value
+C:\Users\Marhaba\source\repos\8\Bank\clsBankClient.h(438,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+  Bank.vcxproj -> C:\Users\Marhaba\source\repos\8\Bank\x64\Debug\Bank.exe
